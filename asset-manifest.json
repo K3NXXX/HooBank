@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HooBank/static/css/main.a63f1cf2.css",
+    "main.js": "/HooBank/static/js/main.d4596e7f.js",
+    "index.html": "/HooBank/index.html",
+    "main.a63f1cf2.css.map": "/HooBank/static/css/main.a63f1cf2.css.map",
+    "main.d4596e7f.js.map": "/HooBank/static/js/main.d4596e7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a63f1cf2.css",
+    "static/js/main.d4596e7f.js"
+  ]
+}
