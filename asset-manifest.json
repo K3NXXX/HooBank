@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/HooBank/static/css/main.a63f1cf2.css",
-    "main.js": "/HooBank/static/js/main.9f1f96f1.js",
+    "main.js": "/HooBank/static/js/main.4ed1a856.js",
+    "static/media/logo.svg": "/HooBank/static/media/logo.2cc3765334b8fc88cad15370f7fb4860.svg",
     "index.html": "/HooBank/index.html",
     "main.a63f1cf2.css.map": "/HooBank/static/css/main.a63f1cf2.css.map",
-    "main.9f1f96f1.js.map": "/HooBank/static/js/main.9f1f96f1.js.map"
+    "main.4ed1a856.js.map": "/HooBank/static/js/main.4ed1a856.js.map"
   },
   "entrypoints": [
     "static/css/main.a63f1cf2.css",
-    "static/js/main.9f1f96f1.js"
+    "static/js/main.4ed1a856.js"
   ]
 }
