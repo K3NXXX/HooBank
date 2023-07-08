@@ -1,0 +1,16 @@
+.btn {
+    color: #00040E;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+    text-transform: capitalize;
+    padding: 19px 33px;
+    border-radius: 10px;
+    transition-duration: .4s;
+    background: linear-gradient(180deg, #DEF9FA 0.89%, #BEF3F5 17.23%, #9DEDF0 42.04%, #7DE7EB 55.12%, #5CE1E6 71.54%, #33BBCF 100%);
+    &:hover {
+        opacity: 0.7;
+    }
+}

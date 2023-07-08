@@ -1,0 +1,28 @@
+.wrapper {
+   display: flex;
+   justify-content: center;
+   margin-bottom: 110px;
+    .content {
+        display: flex;
+        gap: 0 100px;
+        align-items: center;
+        min-height: 60px;
+        margin: 0 auto;
+    }
+    img {
+        max-width: 192px;
+        max-height: 60px;
+    }
+}
+@media (max-width:1120px) {
+    .wrapper {
+        .content {
+            flex-direction: column;
+            img {
+                margin-bottom: 30px;
+            }
+        }
+        
+        
+    }
+}
