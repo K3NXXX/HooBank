@@ -8,7 +8,7 @@ const Header = () => {
         if(open) setTimeout(() => setOpen(false),50)})
     return (  
         <header className={styles.header}>
-            <div>sdfsdfsdfdsfsdfsdfsdfsd</div>
+            <div>sdfsdfsfsdfsdfds</div>
             <nav className={styles.nav}>
                 <a href="/#"><img className={styles.logo}  src="/assets/logo.svg" alt="" /></a>
                 <ul className={styles.list}>
