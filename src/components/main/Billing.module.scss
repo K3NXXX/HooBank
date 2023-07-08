@@ -57,9 +57,13 @@
                 text-align: center;
             }
         }
+        .gradient {
+            display: none;
+        }
         
     }
 }
+
 @media (max-width:600px) {
     .wrapper {
         .img {

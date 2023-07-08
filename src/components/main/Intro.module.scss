@@ -164,6 +164,9 @@
             .main__text {
                 text-align: center;
                 margin: 0 auto;
+                .gradient2 {
+                    display: none;
+                }
 
                 .main_text {
                     margin-top: 15px;
@@ -188,8 +191,12 @@
             }
         }
         .right__part {
+            overflow-x: hidden;
             .right__part_img {
                 position: relative;
+            }
+            .gradient3 {
+                display: none;
             }
         }
     }

@@ -77,3 +77,16 @@
         
     }
 }
+@media (max-width:600px) {
+    .wrapper {
+        width: 350px;
+        padding: 30px 10px;
+       
+        
+    }
+    .wrapper::after {
+        display: none;
+    }
+    .wrapper:hover {
+    }
+}

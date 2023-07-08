@@ -43,6 +43,14 @@
         }
     }
 }
+@media (max-width:1120px) {
+    .wrapper {
+      .left {
+        margin-bottom: 20px;
+      }
+        
+    }
+}
 @media (max-width:600px) {
     .wrapper {
         .left {
