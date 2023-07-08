@@ -1,3 +1,4 @@
+import card from "../../assets/card.png"
 import Button from "../UI/Button";
 import style from "./Card.module.scss"
 const Card = () => {
@@ -8,7 +9,7 @@ const Card = () => {
                 <p className={style.text}>Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.</p>
                 <Button/>
             </div>
-            <img src="/assets/card.png" alt="" className={style.img} />
+            <img src={card} alt="" className={style.img} />
         </div>
     );
 }
