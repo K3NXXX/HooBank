@@ -10,10 +10,10 @@ const Billing = () => {
                 <h3 className={style.title}>Easily control your billing & invoicing.</h3>
                 <p className={style.text}>Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea placerat.</p>
                 <div className={style.buttons}>
-                    <a href="/" className={style.link1}>
+                    <a href="" className={style.link1}>
                         <img src={apple} alt="" />
                     </a>
-                    <a href="/" className={style.link2}>
+                    <a href="" className={style.link2}>
                         <img src={google} alt="" />
                     </a>
                 </div>

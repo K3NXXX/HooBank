@@ -49,16 +49,16 @@ const Footer = () => {
                     
                 </div>
                 <div className={style.social}>
-                    <a href="/#">
+                    <a href="">
                         <img src={instagram} alt="" />
                     </a>
-                    <a href="/#">
+                    <a href="">
                         <img src={facebook}  alt="" />
                     </a>
-                    <a href="/#">
+                    <a href="">
                         <img src={twitter}  alt="" />
                     </a>
-                    <a href="/#">
+                    <a href="">
                         <img src={linkedin}  alt="" />
                     </a>
                 </div>
