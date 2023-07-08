@@ -1,6 +1,7 @@
 import {useRef, useState } from "react";
 import styles from "./Header.module.scss"
 import { useClickOutside } from "../hooks/useClickOutside";
+import logo from "../assets/logo.svg"
 const Header = () => {
     let [open, setOpen] = useState(false)
     const menuRef = useRef(null)
@@ -8,9 +9,8 @@ const Header = () => {
         if(open) setTimeout(() => setOpen(false),50)})
     return (  
         <header className={styles.header}>
-            <div>sdfsdfsfsdfsdfds</div>
             <nav className={styles.nav}>
-                <a href="/#"><img className={styles.logo}  src="/assets/logo.svg" alt="" /></a>
+                <a href=""><img className={styles.logo}  src={logo} alt="" /></a>
                 <ul className={styles.list}>
                     <a className={styles.item_link} href="/#">
                         <li className={`${styles.list_item} ${styles.active}`}>Home</li>
